@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="HudsonRiverLocations" id="HudsonRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>HudsonRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">21194.0285714286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.945725,41.702579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">9380.23975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.944659,41.706693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">9135.21325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.751541,42.636019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">27094.9714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.70322,42.700515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">9167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.687725,42.760621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">20971.1169090909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.674115,42.789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">41545.4249253731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.673589,42.788816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">41124.3833333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.660619,42.821962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">32861.344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.650488,42.938081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">1441.12214285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.590868,43.297099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">3487.993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.589511,43.29781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">3540.17295454545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.586859,43.261578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">9432.33719047619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.584282,43.177512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">32016.6072093023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.582286,43.185084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">30584.2086666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.57583,43.116835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HudsonRiverLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">21636.1237096774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.573877,43.098521</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

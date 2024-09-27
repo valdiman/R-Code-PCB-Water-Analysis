@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BannisterFedComplexLocations" id="BannisterFedComplexLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>BannisterFedComplexLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">1860.75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.576049,38.956014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">390.25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.575147,38.953101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">15253.4444444444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.574922,38.955513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">387.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.574253,38.952909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">162887.333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.566457,38.955012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">2401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.565417,38.967356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">2082.96666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.563753,38.952926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">286.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.562809,38.952135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">25544.125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.562338,38.964772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">45385.7375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.562198,38.965224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">1541.71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.559215,38.957141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">38543.0125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.558228,38.963823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#BannisterFedComplexLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">3654.32307692308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.55723,38.963523</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

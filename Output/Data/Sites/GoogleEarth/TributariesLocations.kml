@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TributariesLocations" id="TributariesLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>TributariesLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">14315.8045263684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.01,44.539167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">13217.542243973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.898333,43.024444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">25935.3162574286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.709167,43.747222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">1539.43873120476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.589444,45.095278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">35235.3279973333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.455833,41.6575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">1055.323430725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.485278,42.113333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">582.008142388889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.339444,43.2275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">674.24554305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.319167,44.250556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">458.7029851375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.278611,43.945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">746.930522888889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.248333,45.951667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">746.384880672727</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.240278,43.060278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#TributariesLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">6842.07819413514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.106667,42.651389</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

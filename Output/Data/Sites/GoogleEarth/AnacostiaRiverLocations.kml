@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AnacostiaRiverLocations" id="AnacostiaRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>AnacostiaRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">17</SimpleData>
+		<SimpleData name="tPCB">533.333333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.029287,38.881983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">820</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.004611,38.872014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.004611,38.872014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.97668,38.86374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9663,38.87754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">277.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.965,38.95276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9649,38.911514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">7640</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9649,38.927032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">556.666666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.961056,38.896279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">1222.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.958252,38.901213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9422,38.90111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.94161,38.91034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">5308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.932217,38.91607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9299,38.9529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.928039,38.491427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">2246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9182,38.91351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AnacostiaRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8468,39.0247</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

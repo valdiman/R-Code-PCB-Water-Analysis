@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="RichardsonHillLocations" id="RichardsonHillLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>RichardsonHillLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">1580000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.247874,42.257708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">285000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.247381,42.253903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">130000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.247342,42.253736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">2445000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.247276,42.253466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">375000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.246613,42.258103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">620000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.246462,42.255582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#RichardsonHillLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">955000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.245545,42.257697</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

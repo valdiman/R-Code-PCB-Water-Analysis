@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PortlandHarborLocations" id="PortlandHarborLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>PortlandHarborLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">165.202466636364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.800134,45.6194068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">141.297891615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7867917,45.6349878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">206.319913857143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7841601,45.6068885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">116.6731</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7826285,45.59993481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">309.508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7672664,45.58914301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">268.901833333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.756719,45.58168135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">1829.70401666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7459934,45.58058866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">222.743370076923</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7451604,45.5759428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">249.349725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7398303,45.56975852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">202.1717788</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7186394,45.5583833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">908.72262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7148772,45.56618383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">260.362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.7055826,45.55106101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">501.3706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.6967063,45.55216927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">196.871381818182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.6829385,45.53952256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">93.9553864444444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.6725305,45.5302925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PortlandHarborLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">184.568043615385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.6669066,45.4707282</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

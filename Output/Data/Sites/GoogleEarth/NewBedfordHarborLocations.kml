@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="NewBedfordHarborLocations" id="NewBedfordHarborLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>NewBedfordHarborLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">140700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.918581,41.668813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">174600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.917528,41.667894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">19</SimpleData>
+		<SimpleData name="tPCB">376350</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.917357,41.661424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">169400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.917338,41.668652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">231600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.917327,41.66603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">1113800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.917239,41.669395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">2533400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.917073,41.670286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">22</SimpleData>
+		<SimpleData name="tPCB">75800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9169365,41.6585159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">17</SimpleData>
+		<SimpleData name="tPCB">396058.25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.916893,41.664349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">18</SimpleData>
+		<SimpleData name="tPCB">233700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.916888,41.662967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">20</SimpleData>
+		<SimpleData name="tPCB">107443.333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9168465,41.6601305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">746900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.916791,41.671252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">121400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.916692,41.669011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">21</SimpleData>
+		<SimpleData name="tPCB">210100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.91639,41.659047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">934304.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9162207,41.6721612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">1858550</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.915797,41.676514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">3451450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.915614,41.675809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">944651.076666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.915529,41.673312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">1772400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.915447,41.673767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">1521207.36363636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.915369,41.674326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">1937145.45454545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.915253,41.674839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">28830</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9142417,41.696411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">23</SimpleData>
+		<SimpleData name="tPCB">22340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9141298,41.6482911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">24</SimpleData>
+		<SimpleData name="tPCB">12592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9138,41.6465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">25</SimpleData>
+		<SimpleData name="tPCB">14551.6666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9115385,41.6432089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#NewBedfordHarborLocations">
+		<SimpleData name="SiteID">26</SimpleData>
+		<SimpleData name="tPCB">8192.85714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-70.9098415,41.6407687</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

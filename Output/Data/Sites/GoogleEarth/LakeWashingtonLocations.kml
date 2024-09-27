@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="LakeWashingtonLocations" id="LakeWashingtonLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>LakeWashingtonLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">6471.65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.3878,47.66731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">426961.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.335406,47.629912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">56629.93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2817,47.61228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">482.618333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2686,47.6365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">1146.42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.257936,47.683867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">16804.3966666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2578,47.54867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">818.233333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2567,47.54894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">3137.433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2558,47.58978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">5762.3735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.211486,47.676185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">299.764666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2028,47.48231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">2475.86366666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2014,47.52997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#LakeWashingtonLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">4570.68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2003,47.50164</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

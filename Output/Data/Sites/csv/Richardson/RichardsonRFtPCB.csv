@@ -1,0 +1,6 @@
+"location","Observation","Predicted","RMSE","Pearson","Factor2_Percentage","NumTrees","Mtry","SplitRule","MinNodeSize"
+"Richardson Hill Road Landfill",210000,643889.978366637,0.466313216409578,-0.484184446902917,60,100,1,"variance",5
+"Richardson Hill Road Landfill",530000,484579.992900789,0.466313216409578,-0.484184446902917,60,100,1,"variance",5
+"Richardson Hill Road Landfill",250000,484579.992900789,0.466313216409578,-0.484184446902917,60,100,1,"variance",5
+"Richardson Hill Road Landfill",420000,318134.817699752,0.466313216409578,-0.484184446902917,60,100,1,"variance",5
+"Richardson Hill Road Landfill",2900000,393859.655850717,0.466313216409578,-0.484184446902917,60,100,1,"variance",5

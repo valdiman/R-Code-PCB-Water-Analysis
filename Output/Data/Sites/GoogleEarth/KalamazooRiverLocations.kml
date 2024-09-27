@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="KalamazooRiverLocations" id="KalamazooRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>KalamazooRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">7005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.198888,42.647977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">10712.8205128205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.115952,42.644222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">7271.42857142857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.9836294,42.5937651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">20340</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.9536,42.56369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">9783.33333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.8479342,42.5310766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">16069.2307692308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.844516,42.5048726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">24</SimpleData>
+		<SimpleData name="tPCB">11400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.8396063,42.5218902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">21</SimpleData>
+		<SimpleData name="tPCB">7266.66666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.7488877,42.465354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">36832.1428571429</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.6960946,42.4624339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">23</SimpleData>
+		<SimpleData name="tPCB">722812.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.66864,42.455827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">17</SimpleData>
+		<SimpleData name="tPCB">6085.05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.643016,42.443492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">19</SimpleData>
+		<SimpleData name="tPCB">60.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.6417693,42.4455197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">16525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.578164,42.284982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">71304.347826087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5779982,42.2703985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">7612.82051282051</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5779338,42.3761524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">69333.3333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5764427,42.2597214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">45914.7058823529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5757013,42.2876851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">20</SimpleData>
+		<SimpleData name="tPCB">8202.38095238095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.575453,42.289781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">6375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.572224,42.294915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">18</SimpleData>
+		<SimpleData name="tPCB">68.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.572224,42.294915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">22</SimpleData>
+		<SimpleData name="tPCB">35000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.572224,42.294915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">25</SimpleData>
+		<SimpleData name="tPCB">4591.66666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.57144,42.298398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">26000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.552777,42.286133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">48000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.5134541,42.2858709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#KalamazooRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">12759.0909090909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.510397,42.288979</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

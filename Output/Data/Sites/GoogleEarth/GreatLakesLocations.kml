@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GreatLakesLocations" id="GreatLakesLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>GreatLakesLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">42</SimpleData>
+		<SimpleData name="tPCB">122.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.790278,46.8222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">41</SimpleData>
+		<SimpleData name="tPCB">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.28977,47.098675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">73</SimpleData>
+		<SimpleData name="tPCB">179.14760640625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.758333,43.016667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">81</SimpleData>
+		<SimpleData name="tPCB">127.937238206667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.709444,42.319722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">75</SimpleData>
+		<SimpleData name="tPCB">118.178353228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.677778,43.716667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">24</SimpleData>
+		<SimpleData name="tPCB">160.5536525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.570382,41.905889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">67</SimpleData>
+		<SimpleData name="tPCB">678.367789157143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.502222,44.896944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">52</SimpleData>
+		<SimpleData name="tPCB">124.69303975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.473333,44.171667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">62</SimpleData>
+		<SimpleData name="tPCB">260.514894934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.416667,42.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">45</SimpleData>
+		<SimpleData name="tPCB">181.31564385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.416667,42.733333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">82</SimpleData>
+		<SimpleData name="tPCB">311.9145877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.34,44.680556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">43</SimpleData>
+		<SimpleData name="tPCB">146.725394335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.333333,41.766667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">44</SimpleData>
+		<SimpleData name="tPCB">196.958335983333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.273056,44.683889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">50</SimpleData>
+		<SimpleData name="tPCB">170.4846574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.247222,43.354444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">83</SimpleData>
+		<SimpleData name="tPCB">148.453846188571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.224722,44.683056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">77</SimpleData>
+		<SimpleData name="tPCB">178.59721166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.222222,44.783333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">48</SimpleData>
+		<SimpleData name="tPCB">194.99179762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.169722,43.349444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">68</SimpleData>
+		<SimpleData name="tPCB">180.042813601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.032778,45.493611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">51</SimpleData>
+		<SimpleData name="tPCB">201.4135396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87,41.766667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">64</SimpleData>
+		<SimpleData name="tPCB">163.99929588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87,42</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">46</SimpleData>
+		<SimpleData name="tPCB">177.296708163636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87,42.733333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">47</SimpleData>
+		<SimpleData name="tPCB">167.838670866667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87,43.133333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">57</SimpleData>
+		<SimpleData name="tPCB">153.4289286925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.966667,44.76</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">49</SimpleData>
+		<SimpleData name="tPCB">138.523864049286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.916667,43.6</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">60</SimpleData>
+		<SimpleData name="tPCB">252.64529825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.856667,45.27</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">40</SimpleData>
+		<SimpleData name="tPCB">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.817778,47.605833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">58</SimpleData>
+		<SimpleData name="tPCB">97.5818804114286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.721667,44.736667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">66</SimpleData>
+		<SimpleData name="tPCB">348.954512278571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.7,45.272222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">65</SimpleData>
+		<SimpleData name="tPCB">158.195813033333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.65,42.0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">71</SimpleData>
+		<SimpleData name="tPCB">151.251349155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.646389,43.056389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">70</SimpleData>
+		<SimpleData name="tPCB">213.344512366667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.533889,42.167222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">55</SimpleData>
+		<SimpleData name="tPCB">298.604387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.533333,44.06</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">76</SimpleData>
+		<SimpleData name="tPCB">120.523199733333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.5,43.861111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">56</SimpleData>
+		<SimpleData name="tPCB">176.9435437</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.4575,42.684722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">74</SimpleData>
+		<SimpleData name="tPCB">176.8474594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.388889,43.197222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">61</SimpleData>
+		<SimpleData name="tPCB">134.377672608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.375,45.178333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">54</SimpleData>
+		<SimpleData name="tPCB">181.11540295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.315,42.689444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">72</SimpleData>
+		<SimpleData name="tPCB">214.01772405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.305556,43.041667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">59</SimpleData>
+		<SimpleData name="tPCB">132.0583093125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.272222,44.697222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">53</SimpleData>
+		<SimpleData name="tPCB">480.2117533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.230278,42.701667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">78</SimpleData>
+		<SimpleData name="tPCB">109.6170792775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.166667,45.816667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">79</SimpleData>
+		<SimpleData name="tPCB">11958.758245225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.75,45.866667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">63</SimpleData>
+		<SimpleData name="tPCB">129.0769464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.556667,45.483333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">39</SimpleData>
+		<SimpleData name="tPCB">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16111,46.993056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">80</SimpleData>
+		<SimpleData name="tPCB">136.198638512222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.916667,45.805556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">63.62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.487,41.692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">69</SimpleData>
+		<SimpleData name="tPCB">132.185673776875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.416667,45.516667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">32</SimpleData>
+		<SimpleData name="tPCB">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.170833,44.123611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">27</SimpleData>
+		<SimpleData name="tPCB">330</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.045,41.94667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">63.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.976,41.826</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">29</SimpleData>
+		<SimpleData name="tPCB">240</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.916667,41.840833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">33</SimpleData>
+		<SimpleData name="tPCB">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.50333,44.19833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">30.07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.082,41.497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">31</SimpleData>
+		<SimpleData name="tPCB">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.056667,43.89</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">26</SimpleData>
+		<SimpleData name="tPCB">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.041667,41.965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">30</SimpleData>
+		<SimpleData name="tPCB">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82,43.46667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">20.425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.766,41.504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">34.25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.679,41.492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">47.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.654,41.936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">28</SimpleData>
+		<SimpleData name="tPCB">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.25,42.11667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">20.54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.244,41.777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">45.095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.112,42.152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">24.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.92,42.581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">744.7016588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.583333,42.416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">16.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.517,43.572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">14.2683333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.348,42.493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">29.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.265,43.664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">25</SimpleData>
+		<SimpleData name="tPCB">155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.201667,42.79</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">17</SimpleData>
+		<SimpleData name="tPCB">19.55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.087,43.794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">34</SimpleData>
+		<SimpleData name="tPCB">160</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.08,43.516667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">50.046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.063,43.261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">24.654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.89,42.878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">18</SimpleData>
+		<SimpleData name="tPCB">24.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.292,43.631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">35</SimpleData>
+		<SimpleData name="tPCB">140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.026667,43.716667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">19</SimpleData>
+		<SimpleData name="tPCB">23.05</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.011,43.953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">220.2294786</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.916667,43.416667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">20</SimpleData>
+		<SimpleData name="tPCB">76.35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.609,43.252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">36</SimpleData>
+		<SimpleData name="tPCB">190</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.438333,43.44333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">37</SimpleData>
+		<SimpleData name="tPCB">150</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.016667,43.731667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">21</SimpleData>
+		<SimpleData name="tPCB">28.75</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.81,43.958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">38</SimpleData>
+		<SimpleData name="tPCB">110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.521667,44.075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">22</SimpleData>
+		<SimpleData name="tPCB">44.35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.517,43.466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#GreatLakesLocations">
+		<SimpleData name="SiteID">23</SimpleData>
+		<SimpleData name="tPCB">17.558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.332,44.13</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

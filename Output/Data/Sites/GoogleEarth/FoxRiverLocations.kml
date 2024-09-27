@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="FoxRiverLocations" id="FoxRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>FoxRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">843.832916666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.461801,44.218985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">55.3925641025641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.44089,44.184211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">1053.97545454545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.354079,44.276274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">1480.065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.238198,44.288462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">1168.43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.16501,44.326514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">1659.40318181818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.076598,44.427878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">28921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.01,44.5286111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#FoxRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">67958.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.00954,44.54241</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

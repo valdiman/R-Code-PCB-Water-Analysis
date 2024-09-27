@@ -1,0 +1,2390 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PassaicRiverLocations" id="PassaicRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>PassaicRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">96</SimpleData>
+		<SimpleData name="tPCB">4941.5235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840639,40.6465685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">104</SimpleData>
+		<SimpleData name="tPCB">4498.801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840432,40.6466381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">61</SimpleData>
+		<SimpleData name="tPCB">5529.8745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.18404013,40.64662795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">47</SimpleData>
+		<SimpleData name="tPCB">6508.603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.18403849,40.64658457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">54</SimpleData>
+		<SimpleData name="tPCB">5716.9475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.18403416,40.64663971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">170</SimpleData>
+		<SimpleData name="tPCB">3948.971</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840242,40.6466167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">178</SimpleData>
+		<SimpleData name="tPCB">4411.2395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840229,40.6466068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">68</SimpleData>
+		<SimpleData name="tPCB">6760.646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.18402253,40.64662167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">282</SimpleData>
+		<SimpleData name="tPCB">4205.93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.184022,40.646609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">308</SimpleData>
+		<SimpleData name="tPCB">6812.4335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840185,40.646554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">186</SimpleData>
+		<SimpleData name="tPCB">7221.6725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840134,40.6466176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">194</SimpleData>
+		<SimpleData name="tPCB">7032.77525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1840133,40.6466143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">311</SimpleData>
+		<SimpleData name="tPCB">7892.66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1839926,40.6465664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">120</SimpleData>
+		<SimpleData name="tPCB">4828.895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1839794,40.6465757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">112</SimpleData>
+		<SimpleData name="tPCB">4266.604</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1839507,40.6465869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">228</SimpleData>
+		<SimpleData name="tPCB">3484.5455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1775601,40.6473484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">230</SimpleData>
+		<SimpleData name="tPCB">7723.9345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1743415,40.647417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">338</SimpleData>
+		<SimpleData name="tPCB">19798.571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16981577,40.7870188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">325</SimpleData>
+		<SimpleData name="tPCB">21401.018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16808772,40.75041231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">328</SimpleData>
+		<SimpleData name="tPCB">10956.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16588285,40.75628072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">327</SimpleData>
+		<SimpleData name="tPCB">18829.90075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16505705,40.74132706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">320</SimpleData>
+		<SimpleData name="tPCB">1251.68219512195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16463842,40.75791272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">141</SimpleData>
+		<SimpleData name="tPCB">48178.357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1632668,40.7600508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">337</SimpleData>
+		<SimpleData name="tPCB">38199.619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16291606,40.75423879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">93</SimpleData>
+		<SimpleData name="tPCB">13226.7615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1626061,40.73742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">83</SimpleData>
+		<SimpleData name="tPCB">39644.07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1625855,40.7374225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">265</SimpleData>
+		<SimpleData name="tPCB">54802.36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1607881,40.7624547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">167</SimpleData>
+		<SimpleData name="tPCB">16832.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1607151,40.7352256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">157</SimpleData>
+		<SimpleData name="tPCB">26615.3215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1606744,40.7352322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">36</SimpleData>
+		<SimpleData name="tPCB">17807.705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16067237,40.7624374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">31</SimpleData>
+		<SimpleData name="tPCB">49847.515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16066756,40.76243832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">26</SimpleData>
+		<SimpleData name="tPCB">32511.91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16065435,40.76244465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">41</SimpleData>
+		<SimpleData name="tPCB">56798.777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.16063154,40.76242323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">278</SimpleData>
+		<SimpleData name="tPCB">12178.6045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.160628,40.7624353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">219</SimpleData>
+		<SimpleData name="tPCB">29051.65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1606278,40.7624367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">272</SimpleData>
+		<SimpleData name="tPCB">26457.9465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1606275,40.7624216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">210</SimpleData>
+		<SimpleData name="tPCB">10461.2245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1606134,40.7624249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">259</SimpleData>
+		<SimpleData name="tPCB">25923.763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1605957,40.7624364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">225</SimpleData>
+		<SimpleData name="tPCB">3637.5005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1605805,40.7625255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">27441.7855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1603779,40.7631394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">19</SimpleData>
+		<SimpleData name="tPCB">31837.995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1603776,40.7631604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">162</SimpleData>
+		<SimpleData name="tPCB">19287.313</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1602877,40.763223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">146</SimpleData>
+		<SimpleData name="tPCB">61784.755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1600503,40.7348978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">136</SimpleData>
+		<SimpleData name="tPCB">67162.07</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1600356,40.7349143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">26972.42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1576677,40.7338743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">88</SimpleData>
+		<SimpleData name="tPCB">14161.415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1574747,40.766061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">43</SimpleData>
+		<SimpleData name="tPCB">564.712</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.155339,40.781564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">206</SimpleData>
+		<SimpleData name="tPCB">11691.6408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1553387,40.7815628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">264</SimpleData>
+		<SimpleData name="tPCB">81971.755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1532419,40.7337293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">258</SimpleData>
+		<SimpleData name="tPCB">27863.5345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1532388,40.7337201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">11822.8535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1532035,40.7337662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">224</SimpleData>
+		<SimpleData name="tPCB">9308.755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.153198,40.7337204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">89</SimpleData>
+		<SimpleData name="tPCB">14861.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.15319533,40.73372468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">271</SimpleData>
+		<SimpleData name="tPCB">35680.8175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1531902,40.7337427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">277</SimpleData>
+		<SimpleData name="tPCB">16567.115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1531887,40.7337393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">204</SimpleData>
+		<SimpleData name="tPCB">30783.3145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1531879,40.7337322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">209</SimpleData>
+		<SimpleData name="tPCB">25467.755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1531812,40.7337301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">218</SimpleData>
+		<SimpleData name="tPCB">31433.3255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1531811,40.7337353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">37</SimpleData>
+		<SimpleData name="tPCB">23746.7515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.15310217,40.73373678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">32</SimpleData>
+		<SimpleData name="tPCB">59969.025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1530841,40.73372138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">42</SimpleData>
+		<SimpleData name="tPCB">83316.925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.15308403,40.73372802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">27</SimpleData>
+		<SimpleData name="tPCB">40181.67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.15306579,40.7337714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">321</SimpleData>
+		<SimpleData name="tPCB">889.068292682927</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.152681,40.774853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">326</SimpleData>
+		<SimpleData name="tPCB">20678.2895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.15217736,40.77711191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">163</SimpleData>
+		<SimpleData name="tPCB">12728.094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1509698,40.7336724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">322</SimpleData>
+		<SimpleData name="tPCB">1535.2025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14861703,40.78385521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">323</SimpleData>
+		<SimpleData name="tPCB">3572.66666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14846037,40.77802026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">142</SimpleData>
+		<SimpleData name="tPCB">22501.53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1483573,40.7338735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">299</SimpleData>
+		<SimpleData name="tPCB">4828.0445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1477612,40.6555311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">293</SimpleData>
+		<SimpleData name="tPCB">6212.245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1477244,40.6556857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">287</SimpleData>
+		<SimpleData name="tPCB">7624.43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476985,40.6554528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">101</SimpleData>
+		<SimpleData name="tPCB">5313.986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476897,40.6554485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">314</SimpleData>
+		<SimpleData name="tPCB">169.707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476773,40.6554664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">175</SimpleData>
+		<SimpleData name="tPCB">6336.7336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476724,40.6554655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">235</SimpleData>
+		<SimpleData name="tPCB">4622.674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476585,40.6554609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">183</SimpleData>
+		<SimpleData name="tPCB">5649.487</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476553,40.6554769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">247</SimpleData>
+		<SimpleData name="tPCB">3433.381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476506,40.6554443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">199</SimpleData>
+		<SimpleData name="tPCB">3848.4975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476493,40.655441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">315</SimpleData>
+		<SimpleData name="tPCB">529.585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476449,40.6554712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">109</SimpleData>
+		<SimpleData name="tPCB">8926.6965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476434,40.6554889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">191</SimpleData>
+		<SimpleData name="tPCB">5550.6155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476335,40.6554823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">253</SimpleData>
+		<SimpleData name="tPCB">3871.004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476293,40.6554746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">73</SimpleData>
+		<SimpleData name="tPCB">5459.7255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14762783,40.65538986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">241</SimpleData>
+		<SimpleData name="tPCB">3014.8275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476221,40.6554705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">305</SimpleData>
+		<SimpleData name="tPCB">8939.22975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476209,40.6554525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">117</SimpleData>
+		<SimpleData name="tPCB">4697.4185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1476208,40.6554807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">125</SimpleData>
+		<SimpleData name="tPCB">4799.499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.147597,40.6554548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">59</SimpleData>
+		<SimpleData name="tPCB">7117.552</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14750133,40.65556461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">66</SimpleData>
+		<SimpleData name="tPCB">5755.14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14740001,40.65564086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">52</SimpleData>
+		<SimpleData name="tPCB">5303.4095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14734066,40.65514517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">329</SimpleData>
+		<SimpleData name="tPCB">273638.7485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14565715,40.7339299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">319</SimpleData>
+		<SimpleData name="tPCB">1893.93222222222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14498915,40.73485245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">65954.855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1434596,40.737395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">20</SimpleData>
+		<SimpleData name="tPCB">22132.7855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1433699,40.7374365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">335</SimpleData>
+		<SimpleData name="tPCB">55660.3036666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14333283,40.79603114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">25113.707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1427632,40.7925152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">340</SimpleData>
+		<SimpleData name="tPCB">29137.251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.14157674,40.82977472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">333</SimpleData>
+		<SimpleData name="tPCB">1268.314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13937291,40.79597327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">332</SimpleData>
+		<SimpleData name="tPCB">15219.427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13915147,40.81107674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">82</SimpleData>
+		<SimpleData name="tPCB">3872.2265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.138679,40.8088109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">145</SimpleData>
+		<SimpleData name="tPCB">18943.335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386697,40.8087898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">87</SimpleData>
+		<SimpleData name="tPCB">5921.8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386591,40.8087642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">156</SimpleData>
+		<SimpleData name="tPCB">30232.446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386528,40.8087832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">161</SimpleData>
+		<SimpleData name="tPCB">11376.01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386497,40.8087921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">166</SimpleData>
+		<SimpleData name="tPCB">21354.698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386489,40.8087868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">205</SimpleData>
+		<SimpleData name="tPCB">17491.9315</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386481,40.8087932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">40</SimpleData>
+		<SimpleData name="tPCB">23048.01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13864732,40.80879967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">119487.275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386468,40.80879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">151</SimpleData>
+		<SimpleData name="tPCB">10672.267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386433,40.8087932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">35</SimpleData>
+		<SimpleData name="tPCB">9674.717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13864285,40.80879779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">273</SimpleData>
+		<SimpleData name="tPCB">15620.371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386424,40.8087916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">30</SimpleData>
+		<SimpleData name="tPCB">12577.7615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13864225,40.80880212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">25</SimpleData>
+		<SimpleData name="tPCB">18987.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13863914,40.80879594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">18</SimpleData>
+		<SimpleData name="tPCB">32482.02</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386391,40.8087898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">266</SimpleData>
+		<SimpleData name="tPCB">16630.0105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386366,40.8087925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">260</SimpleData>
+		<SimpleData name="tPCB">33962.46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386358,40.8088089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">220</SimpleData>
+		<SimpleData name="tPCB">6767.62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386343,40.808809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">226</SimpleData>
+		<SimpleData name="tPCB">8970.7995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386335,40.8088138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">140</SimpleData>
+		<SimpleData name="tPCB">15894.8155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386314,40.8087568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">279</SimpleData>
+		<SimpleData name="tPCB">11614.465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386293,40.8087996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">27694.025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.138628,40.8087851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">135</SimpleData>
+		<SimpleData name="tPCB">23518.9175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386237,40.8087755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">16916.875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386202,40.8087896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">77</SimpleData>
+		<SimpleData name="tPCB">2003.295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386187,40.8087383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">211</SimpleData>
+		<SimpleData name="tPCB">5176.28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386182,40.8087725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">130</SimpleData>
+		<SimpleData name="tPCB">17376.0105</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1386142,40.808814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">92</SimpleData>
+		<SimpleData name="tPCB">4032.627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1385942,40.808754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">331</SimpleData>
+		<SimpleData name="tPCB">3655.5825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13718429,40.80987466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">84</SimpleData>
+		<SimpleData name="tPCB">46275.685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13658281,40.74143767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">94</SimpleData>
+		<SimpleData name="tPCB">25069.585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13652627,40.74143505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">147</SimpleData>
+		<SimpleData name="tPCB">34799.795</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1363477,40.7417227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">137</SimpleData>
+		<SimpleData name="tPCB">49514.855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1363315,40.7417009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">158</SimpleData>
+		<SimpleData name="tPCB">17520.8235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1347809,40.7416715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">168</SimpleData>
+		<SimpleData name="tPCB">21084.89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1347806,40.741648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">334</SimpleData>
+		<SimpleData name="tPCB">7354.928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13476953,40.80169184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">131</SimpleData>
+		<SimpleData name="tPCB">48402.81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1346991,40.7418155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">22065.789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1334948,40.742207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">44</SimpleData>
+		<SimpleData name="tPCB">1488.60175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.132981,40.826344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">213</SimpleData>
+		<SimpleData name="tPCB">9982.46185714286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1329807,40.8263441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">283</SimpleData>
+		<SimpleData name="tPCB">4192.365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1322209,40.6445037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">330</SimpleData>
+		<SimpleData name="tPCB">6785.37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.13137084,40.81811552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">212</SimpleData>
+		<SimpleData name="tPCB">4548.716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.129645,40.8851422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">280</SimpleData>
+		<SimpleData name="tPCB">2722.22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296213,40.8850956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">46</SimpleData>
+		<SimpleData name="tPCB">4967.22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12960712,40.8851097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">169</SimpleData>
+		<SimpleData name="tPCB">1877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296055,40.8851111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">261</SimpleData>
+		<SimpleData name="tPCB">4238.19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296041,40.8851149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">274</SimpleData>
+		<SimpleData name="tPCB">6752.066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296036,40.8851158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">221</SimpleData>
+		<SimpleData name="tPCB">1944.186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296031,40.8851117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">95</SimpleData>
+		<SimpleData name="tPCB">896.642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296024,40.8850994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">215</SimpleData>
+		<SimpleData name="tPCB">4162.485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296015,40.8851177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">268</SimpleData>
+		<SimpleData name="tPCB">11055.382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1296002,40.8851202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">227</SimpleData>
+		<SimpleData name="tPCB">681.42</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1295973,40.885112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">267</SimpleData>
+		<SimpleData name="tPCB">7063.35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1295965,40.8851185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">281</SimpleData>
+		<SimpleData name="tPCB">2707.16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1295935,40.8851232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">148</SimpleData>
+		<SimpleData name="tPCB">4806.777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1295929,40.885117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">21</SimpleData>
+		<SimpleData name="tPCB">4292.36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1295847,40.8851334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">106</SimpleData>
+		<SimpleData name="tPCB">5022.89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286698,40.6441914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">63</SimpleData>
+		<SimpleData name="tPCB">4315.5705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12865777,40.64422097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">188</SimpleData>
+		<SimpleData name="tPCB">5549.2715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286555,40.6442348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">231</SimpleData>
+		<SimpleData name="tPCB">2530.266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286525,40.6442089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">229</SimpleData>
+		<SimpleData name="tPCB">2922.967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286522,40.6442256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">98</SimpleData>
+		<SimpleData name="tPCB">4317.2735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286514,40.6441887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">114</SimpleData>
+		<SimpleData name="tPCB">4286.971</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286499,40.64423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">196</SimpleData>
+		<SimpleData name="tPCB">6691.6555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286468,40.644189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">56</SimpleData>
+		<SimpleData name="tPCB">6904.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286439,40.64412831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">49</SimpleData>
+		<SimpleData name="tPCB">6058.845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12864216,40.64426018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">180</SimpleData>
+		<SimpleData name="tPCB">6756.7205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286341,40.6442005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">172</SimpleData>
+		<SimpleData name="tPCB">3507.02</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.128623,40.644202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">70</SimpleData>
+		<SimpleData name="tPCB">5771.511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12862072,40.64422074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">122</SimpleData>
+		<SimpleData name="tPCB">4601.3445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1286181,40.6441933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">336</SimpleData>
+		<SimpleData name="tPCB">99321.21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12758755,40.74073731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">197</SimpleData>
+		<SimpleData name="tPCB">4026.842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1270038,40.6748437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">181</SimpleData>
+		<SimpleData name="tPCB">3190.304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1270034,40.6748335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">50</SimpleData>
+		<SimpleData name="tPCB">7269.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12700009,40.67485123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">233</SimpleData>
+		<SimpleData name="tPCB">2965.85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269969,40.6748518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">285</SimpleData>
+		<SimpleData name="tPCB">11997.87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269953,40.6748525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">173</SimpleData>
+		<SimpleData name="tPCB">3939.638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269952,40.6748322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">115</SimpleData>
+		<SimpleData name="tPCB">5734.10475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269926,40.6748313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">99</SimpleData>
+		<SimpleData name="tPCB">6184.98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269881,40.6748558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">251</SimpleData>
+		<SimpleData name="tPCB">3375.447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269794,40.674827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">297</SimpleData>
+		<SimpleData name="tPCB">5053.3465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269781,40.6748412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">123</SimpleData>
+		<SimpleData name="tPCB">5432.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269717,40.6748538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">291</SimpleData>
+		<SimpleData name="tPCB">8717.623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269711,40.6748475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">245</SimpleData>
+		<SimpleData name="tPCB">4082.842</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269661,40.6748248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">107</SimpleData>
+		<SimpleData name="tPCB">5893.542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269632,40.674824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">303</SimpleData>
+		<SimpleData name="tPCB">9879.686</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269632,40.6748313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">71</SimpleData>
+		<SimpleData name="tPCB">7123.7305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12695525,40.67479701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">239</SimpleData>
+		<SimpleData name="tPCB">3821.66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269552,40.6748501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">189</SimpleData>
+		<SimpleData name="tPCB">4594.4195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1269538,40.6748597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">57</SimpleData>
+		<SimpleData name="tPCB">7003.8115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12692902,40.67482693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">64</SimpleData>
+		<SimpleData name="tPCB">6208.2135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12688588,40.6748303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">306</SimpleData>
+		<SimpleData name="tPCB">11939.66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1268352,40.7003463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">78</SimpleData>
+		<SimpleData name="tPCB">15828.58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1264597,40.7426998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">119</SimpleData>
+		<SimpleData name="tPCB">6869.9828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1257314,40.6921959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">237</SimpleData>
+		<SimpleData name="tPCB">4510.748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1257224,40.6922236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">255</SimpleData>
+		<SimpleData name="tPCB">4122.364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1257213,40.6922484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">127</SimpleData>
+		<SimpleData name="tPCB">17011.635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1257171,40.6921726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">177</SimpleData>
+		<SimpleData name="tPCB">9550.831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1257115,40.6921741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">249</SimpleData>
+		<SimpleData name="tPCB">10615.04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1257005,40.6922275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">103</SimpleData>
+		<SimpleData name="tPCB">9992.22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256999,40.692196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">289</SimpleData>
+		<SimpleData name="tPCB">15213.318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256956,40.6922035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">201</SimpleData>
+		<SimpleData name="tPCB">13297.4115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256952,40.692192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">301</SimpleData>
+		<SimpleData name="tPCB">7902.495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256943,40.6922109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">307</SimpleData>
+		<SimpleData name="tPCB">13664.85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256901,40.6922175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">295</SimpleData>
+		<SimpleData name="tPCB">8236.535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256877,40.6922042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">185</SimpleData>
+		<SimpleData name="tPCB">9913.7835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.125686,40.692201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">310</SimpleData>
+		<SimpleData name="tPCB">9486.774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256855,40.6922034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">193</SimpleData>
+		<SimpleData name="tPCB">6146.2235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256794,40.6922288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">111</SimpleData>
+		<SimpleData name="tPCB">11203.523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256573,40.6921786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">243</SimpleData>
+		<SimpleData name="tPCB">3377.594</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1256467,40.6922231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">152</SimpleData>
+		<SimpleData name="tPCB">16482.9725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1248252,40.7423775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">246</SimpleData>
+		<SimpleData name="tPCB">8140.265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1244598,40.6930201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">190</SimpleData>
+		<SimpleData name="tPCB">6823.988</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243707,40.6930452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">174</SimpleData>
+		<SimpleData name="tPCB">9605.431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.124367,40.6930349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">234</SimpleData>
+		<SimpleData name="tPCB">8154.50475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.124363,40.6930151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">240</SimpleData>
+		<SimpleData name="tPCB">3512.29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243604,40.693033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">108</SimpleData>
+		<SimpleData name="tPCB">7978.5985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243577,40.693052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">58</SimpleData>
+		<SimpleData name="tPCB">6642.655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12435489,40.69303367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">72</SimpleData>
+		<SimpleData name="tPCB">9145.7345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12435216,40.69302504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">100</SimpleData>
+		<SimpleData name="tPCB">10559.0285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243432,40.693034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">298</SimpleData>
+		<SimpleData name="tPCB">9262.453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.124342,40.6930292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">124</SimpleData>
+		<SimpleData name="tPCB">10507.595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243329,40.6930528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">65</SimpleData>
+		<SimpleData name="tPCB">5693.0165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12432654,40.69301472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">51</SimpleData>
+		<SimpleData name="tPCB">8793.572</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12432517,40.69302767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">116</SimpleData>
+		<SimpleData name="tPCB">6866.59975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243238,40.69302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">304</SimpleData>
+		<SimpleData name="tPCB">20898.0046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243177,40.6930291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">312</SimpleData>
+		<SimpleData name="tPCB">6874.8905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243151,40.6930497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">292</SimpleData>
+		<SimpleData name="tPCB">7433.19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243135,40.6930452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">286</SimpleData>
+		<SimpleData name="tPCB">10791.645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.124308,40.6930234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">182</SimpleData>
+		<SimpleData name="tPCB">9717.233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1243076,40.693022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">198</SimpleData>
+		<SimpleData name="tPCB">6607.495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1242992,40.6930204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">252</SimpleData>
+		<SimpleData name="tPCB">3781.748</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1242896,40.6930373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">317</SimpleData>
+		<SimpleData name="tPCB">1630.82871794872</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12280349,40.71859912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">324</SimpleData>
+		<SimpleData name="tPCB">15528.1735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12086076,40.88129647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">164</SimpleData>
+		<SimpleData name="tPCB">7803.043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1202009,40.708482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">202</SimpleData>
+		<SimpleData name="tPCB">6477.3585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201764,40.7085055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">275</SimpleData>
+		<SimpleData name="tPCB">9581.4165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201723,40.7084998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">154</SimpleData>
+		<SimpleData name="tPCB">7634.5205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201722,40.7084945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">128</SimpleData>
+		<SimpleData name="tPCB">15260.5025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201668,40.7085109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">216</SimpleData>
+		<SimpleData name="tPCB">9839.9255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201616,40.7084977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">222</SimpleData>
+		<SimpleData name="tPCB">3825.021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201604,40.7085106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">262</SimpleData>
+		<SimpleData name="tPCB">12261.427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201547,40.7084939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">138</SimpleData>
+		<SimpleData name="tPCB">7669.7325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201529,40.7085131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">90</SimpleData>
+		<SimpleData name="tPCB">14410.95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201492,40.7084762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">133</SimpleData>
+		<SimpleData name="tPCB">9997.896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.120148,40.7084986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">269</SimpleData>
+		<SimpleData name="tPCB">16198.3735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201449,40.7084889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">143</SimpleData>
+		<SimpleData name="tPCB">11987.365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201446,40.7085038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">256</SimpleData>
+		<SimpleData name="tPCB">11670.808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201421,40.7085175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">10093.3945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.120142,40.708509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">5945.5555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201419,40.7085205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">85</SimpleData>
+		<SimpleData name="tPCB">7266.0635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201412,40.7085112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">80</SimpleData>
+		<SimpleData name="tPCB">9319.484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201357,40.7084813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">159</SimpleData>
+		<SimpleData name="tPCB">4717.011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201286,40.7085167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">149</SimpleData>
+		<SimpleData name="tPCB">9801.1285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201211,40.70851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">75</SimpleData>
+		<SimpleData name="tPCB">28996.385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201178,40.7084844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">38</SimpleData>
+		<SimpleData name="tPCB">15502.865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12011374,40.70846164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">28</SimpleData>
+		<SimpleData name="tPCB">10142.349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201126,40.70846498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">207</SimpleData>
+		<SimpleData name="tPCB">4375.8745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201119,40.7085053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">23</SimpleData>
+		<SimpleData name="tPCB">13207.5085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12011125,40.70845444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">33</SimpleData>
+		<SimpleData name="tPCB">6979.7595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12010947,40.7084627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">8494.2665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1201065,40.7084808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">13437.935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1200898,40.708522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">316</SimpleData>
+		<SimpleData name="tPCB">1756.5985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.12004678,40.70228684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">132</SimpleData>
+		<SimpleData name="tPCB">31221.61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1192941,40.7410243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">76</SimpleData>
+		<SimpleData name="tPCB">13690.3495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180512,40.7303523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">91</SimpleData>
+		<SimpleData name="tPCB">14997.775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180487,40.7303309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">20868.1045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180363,40.7303556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">81</SimpleData>
+		<SimpleData name="tPCB">26929.1445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180307,40.7303571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">276</SimpleData>
+		<SimpleData name="tPCB">35511.0975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180267,40.7303624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">129</SimpleData>
+		<SimpleData name="tPCB">21990.236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180264,40.7303245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">155</SimpleData>
+		<SimpleData name="tPCB">16112.517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180212,40.7303552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">150</SimpleData>
+		<SimpleData name="tPCB">11746.258</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180177,40.7303629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">160</SimpleData>
+		<SimpleData name="tPCB">6371.3725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180139,40.7303666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">25885.0365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180132,40.7303623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">165</SimpleData>
+		<SimpleData name="tPCB">13409.036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.118012,40.7303554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">144</SimpleData>
+		<SimpleData name="tPCB">18470.22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180076,40.7303345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">223</SimpleData>
+		<SimpleData name="tPCB">49.1635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180034,40.7303439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">8092.148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1180022,40.7303813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">203</SimpleData>
+		<SimpleData name="tPCB">6445.83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179981,40.7303527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">217</SimpleData>
+		<SimpleData name="tPCB">12742.6145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179975,40.7303688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">17</SimpleData>
+		<SimpleData name="tPCB">13071.415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179972,40.7303732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">86</SimpleData>
+		<SimpleData name="tPCB">9169.3375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179953,40.7303576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">134</SimpleData>
+		<SimpleData name="tPCB">21147.43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179906,40.730332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">208</SimpleData>
+		<SimpleData name="tPCB">6995.2275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179877,40.7303446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">139</SimpleData>
+		<SimpleData name="tPCB">9659.298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179711,40.7303711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">270</SimpleData>
+		<SimpleData name="tPCB">18375.9275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179447,40.7303894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">24</SimpleData>
+		<SimpleData name="tPCB">21731.761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11793815,40.73037433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">29</SimpleData>
+		<SimpleData name="tPCB">23543.51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11792737,40.73036606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">39</SimpleData>
+		<SimpleData name="tPCB">22346.975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11792379,40.73036056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">263</SimpleData>
+		<SimpleData name="tPCB">11461.5505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179168,40.7303751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">34</SimpleData>
+		<SimpleData name="tPCB">11626.6465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11791303,40.73034954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">257</SimpleData>
+		<SimpleData name="tPCB">18776.385</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1179092,40.7303779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">318</SimpleData>
+		<SimpleData name="tPCB">2047.664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11777492,40.74035959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">79</SimpleData>
+		<SimpleData name="tPCB">48312.815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11698646,40.73858502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">153</SimpleData>
+		<SimpleData name="tPCB">14830.8865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1169792,40.7378957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">242</SimpleData>
+		<SimpleData name="tPCB">3850.871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1124784,40.7003833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">248</SimpleData>
+		<SimpleData name="tPCB">6315.39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1124779,40.7003167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">254</SimpleData>
+		<SimpleData name="tPCB">3167.944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1124604,40.7003159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">118</SimpleData>
+		<SimpleData name="tPCB">5453.827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1124265,40.7003902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">300</SimpleData>
+		<SimpleData name="tPCB">6828.68</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.112419,40.7003176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">236</SimpleData>
+		<SimpleData name="tPCB">6735.505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.112409,40.700346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">184</SimpleData>
+		<SimpleData name="tPCB">6670.871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123977,40.7003218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">192</SimpleData>
+		<SimpleData name="tPCB">3877.255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123953,40.7003155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">176</SimpleData>
+		<SimpleData name="tPCB">8301.666</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123904,40.7003217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">200</SimpleData>
+		<SimpleData name="tPCB">9432.453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123904,40.7003271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">288</SimpleData>
+		<SimpleData name="tPCB">15812.829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123893,40.7003142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">313</SimpleData>
+		<SimpleData name="tPCB">5390.263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123858,40.7003348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">102</SimpleData>
+		<SimpleData name="tPCB">10744.285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123852,40.7002818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">74</SimpleData>
+		<SimpleData name="tPCB">8777.563</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11237963,40.70034555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">60</SimpleData>
+		<SimpleData name="tPCB">11004.245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11237662,40.70034123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">53</SimpleData>
+		<SimpleData name="tPCB">10593.51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11237118,40.70033465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">67</SimpleData>
+		<SimpleData name="tPCB">8265.885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.11236684,40.70034325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">294</SimpleData>
+		<SimpleData name="tPCB">7847.838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123653,40.7003181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">126</SimpleData>
+		<SimpleData name="tPCB">8637.51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123617,40.7002805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">110</SimpleData>
+		<SimpleData name="tPCB">8938.95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.1123237,40.7003242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">232</SimpleData>
+		<SimpleData name="tPCB">5296.609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0910028,40.7381812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">195</SimpleData>
+		<SimpleData name="tPCB">8977.55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0909435,40.7382194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">121</SimpleData>
+		<SimpleData name="tPCB">14707.88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.090916,40.7382641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">296</SimpleData>
+		<SimpleData name="tPCB">14483.969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0909063,40.7382093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">55</SimpleData>
+		<SimpleData name="tPCB">16686.185</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.09090599,40.73825833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">48</SimpleData>
+		<SimpleData name="tPCB">11162.1075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.09090197,40.73820806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">244</SimpleData>
+		<SimpleData name="tPCB">9554.835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0909012,40.7382679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">105</SimpleData>
+		<SimpleData name="tPCB">12582.5655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908962,40.7382413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">284</SimpleData>
+		<SimpleData name="tPCB">8575.665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908946,40.7382272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">97</SimpleData>
+		<SimpleData name="tPCB">11493.517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908854,40.7382264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">309</SimpleData>
+		<SimpleData name="tPCB">12141.278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908833,40.7382448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">290</SimpleData>
+		<SimpleData name="tPCB">15608.159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908715,40.7382353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">302</SimpleData>
+		<SimpleData name="tPCB">10412.6115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908712,40.7382356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">250</SimpleData>
+		<SimpleData name="tPCB">7036.845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908687,40.7382808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">171</SimpleData>
+		<SimpleData name="tPCB">11141.035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908636,40.7382317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">179</SimpleData>
+		<SimpleData name="tPCB">9518.139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908619,40.7382344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">113</SimpleData>
+		<SimpleData name="tPCB">11966.535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.090859,40.7382332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">238</SimpleData>
+		<SimpleData name="tPCB">7012.1075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0908241,40.7383599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">62</SimpleData>
+		<SimpleData name="tPCB">9206.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.09081172,40.73824309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">187</SimpleData>
+		<SimpleData name="tPCB">8935.5715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0907784,40.7383864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">69</SimpleData>
+		<SimpleData name="tPCB">14671.264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.09051244,40.73805334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">45</SimpleData>
+		<SimpleData name="tPCB">3495.77775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.088983,40.873433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">214</SimpleData>
+		<SimpleData name="tPCB">9941.07933333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.088983,40.8734337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">339</SimpleData>
+		<SimpleData name="tPCB">13541.089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.07999919,40.89179431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#PassaicRiverLocations">
+		<SimpleData name="SiteID">22</SimpleData>
+		<SimpleData name="tPCB">3233.48633333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74,40</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

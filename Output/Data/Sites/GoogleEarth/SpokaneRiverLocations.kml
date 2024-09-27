@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SpokaneRiverLocations" id="SpokaneRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>SpokaneRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">8827.87966666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.471655,47.693547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">286.022333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.4499088,47.65855318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">599.213375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.44986,47.665624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">250.187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.44986,47.71532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">276.962571428571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.3639889,47.67858611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">417.934666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.35309,47.667135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">3323.733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.278405,47.688532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">270.075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.24215,47.69736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">4013.96066666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.221578,47.685952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">144.42275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.15208,47.677777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">255.396666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-117.10985,47.677655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">134.6446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.97578,47.70308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">282.618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.972642,47.713045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">117.448571428571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.7989162,47.6816274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpokaneRiverLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">806.535333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-116.796765,47.682352</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

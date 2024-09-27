@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="HousatonicRiverLocations" id="HousatonicRiverLocations">
+	<SimpleField name="SiteID" type="float"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>HousatonicRiverLocations</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">31</SimpleData>
+		<SimpleData name="tPCB">100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.4893,41.6528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">33</SimpleData>
+		<SimpleData name="tPCB">114285.714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.4807,41.7269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">9</SimpleData>
+		<SimpleData name="tPCB">90600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.361548,41.96335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">6</SimpleData>
+		<SimpleData name="tPCB">345768.103448276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.354719,42.231696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">3</SimpleData>
+		<SimpleData name="tPCB">58217.3913043478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.34882,42.058467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">29</SimpleData>
+		<SimpleData name="tPCB">229629.62962963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.3456,42.2319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">30</SimpleData>
+		<SimpleData name="tPCB">138461.538461538</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.3361,41.964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">32</SimpleData>
+		<SimpleData name="tPCB">100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.334,42.0748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">5</SimpleData>
+		<SimpleData name="tPCB">171427.906976744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.248392,42.440386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">10</SimpleData>
+		<SimpleData name="tPCB">549872.340425532</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.247879,42.436427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">22</SimpleData>
+		<SimpleData name="tPCB">139130.769230769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.247879,42.436427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">17</SimpleData>
+		<SimpleData name="tPCB">79925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.246496,42.332619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">23</SimpleData>
+		<SimpleData name="tPCB">91299.5024875622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.246496,42.332619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">11</SimpleData>
+		<SimpleData name="tPCB">144763.636363636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.244957,42.347658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">28</SimpleData>
+		<SimpleData name="tPCB">63675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.244957,42.347658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">8</SimpleData>
+		<SimpleData name="tPCB">156333.333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.244122,42.445037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">19</SimpleData>
+		<SimpleData name="tPCB">182107.25388601</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.240518,42.393851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">24</SimpleData>
+		<SimpleData name="tPCB">34450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.240162,42.447388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">12</SimpleData>
+		<SimpleData name="tPCB">133242.063492063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.239031,42.351516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">13</SimpleData>
+		<SimpleData name="tPCB">129988.461538462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.238627,42.429868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">7</SimpleData>
+		<SimpleData name="tPCB">320370.689655172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.237815,42.447899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">18</SimpleData>
+		<SimpleData name="tPCB">196250</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.237815,42.447899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">1</SimpleData>
+		<SimpleData name="tPCB">79500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.237721,42.399937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">2</SimpleData>
+		<SimpleData name="tPCB">131752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.235603,42.415943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">14</SimpleData>
+		<SimpleData name="tPCB">72333.3333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.235239,42.408194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">16</SimpleData>
+		<SimpleData name="tPCB">61000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.235239,42.408194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">21</SimpleData>
+		<SimpleData name="tPCB">373282.394366197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.23334,42.449295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">20</SimpleData>
+		<SimpleData name="tPCB">59318.9189189189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.226903,42.451201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">26</SimpleData>
+		<SimpleData name="tPCB">190425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.226903,42.451201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">27</SimpleData>
+		<SimpleData name="tPCB">41850</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.20338,42.458815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">25</SimpleData>
+		<SimpleData name="tPCB">287000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.202594,42.458825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">15</SimpleData>
+		<SimpleData name="tPCB">123125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.196807,42.469576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#HousatonicRiverLocations">
+		<SimpleData name="SiteID">4</SimpleData>
+		<SimpleData name="tPCB">40600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.182079,42.468615</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

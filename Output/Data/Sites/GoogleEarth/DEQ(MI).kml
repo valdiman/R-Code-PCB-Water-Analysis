@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="DEQ_MI_" id="DEQ_MI_">
+	<SimpleField name="SiteID" type="string"></SimpleField>
+	<SimpleField name="tPCB" type="float"></SimpleField>
+</Schema>
+<Folder><name>DEQ_MI_</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI035</SimpleData>
+		<SimpleData name="tPCB">100.25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.316949,46.867505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI036</SimpleData>
+		<SimpleData name="tPCB">196.84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.70008,46.22945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI051</SimpleData>
+		<SimpleData name="tPCB">228.63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.635559,45.106253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI006</SimpleData>
+		<SimpleData name="tPCB">68.85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.566031,46.185408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI014</SimpleData>
+		<SimpleData name="tPCB">119.43</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.095838,45.804448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI002</SimpleData>
+		<SimpleData name="tPCB">5796.55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.81744,46.43728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI062</SimpleData>
+		<SimpleData name="tPCB">69.91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.668615,45.834171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI058</SimpleData>
+		<SimpleData name="tPCB">1022.63066666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.44888,42.06333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI025</SimpleData>
+		<SimpleData name="tPCB">147.86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.295377,44.264304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI039</SimpleData>
+		<SimpleData name="tPCB">267.11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.280004,43.944448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI026</SimpleData>
+		<SimpleData name="tPCB">625.06</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.246116,45.968893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI032</SimpleData>
+		<SimpleData name="tPCB">163.023333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.038892,43.317782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI043</SimpleData>
+		<SimpleData name="tPCB">84.74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.038453,46.55652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI018</SimpleData>
+		<SimpleData name="tPCB">700.028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.033892,43.02667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI017</SimpleData>
+		<SimpleData name="tPCB">81.92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.02881,46.40002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI038</SimpleData>
+		<SimpleData name="tPCB">740.24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.019098,43.929164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI004</SimpleData>
+		<SimpleData name="tPCB">979.655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.018691,43.784348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI037</SimpleData>
+		<SimpleData name="tPCB">407.16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.880874,43.861873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI048</SimpleData>
+		<SimpleData name="tPCB">171.57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.862056,43.868382</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI052</SimpleData>
+		<SimpleData name="tPCB">290.98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.8539,42.01</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI063</SimpleData>
+		<SimpleData name="tPCB">124.08</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.78184,46.37281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI024</SimpleData>
+		<SimpleData name="tPCB">605.29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.770934,43.800342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI059</SimpleData>
+		<SimpleData name="tPCB">284.52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.756944,41.80003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI027</SimpleData>
+		<SimpleData name="tPCB">517.04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.723791,43.873059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI029</SimpleData>
+		<SimpleData name="tPCB">175.66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.720994,43.407057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI005</SimpleData>
+		<SimpleData name="tPCB">976.9375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.630698,44.675281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI013</SimpleData>
+		<SimpleData name="tPCB">37.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.50444,44.62746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI031</SimpleData>
+		<SimpleData name="tPCB">570.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.447504,43.635281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI028</SimpleData>
+		<SimpleData name="tPCB">486.286666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.432313,43.847216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI023</SimpleData>
+		<SimpleData name="tPCB">603.403333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.392686,43.504346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI034</SimpleData>
+		<SimpleData name="tPCB">2308.82666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.35889,42.325556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI003</SimpleData>
+		<SimpleData name="tPCB">221.19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.11105,42.97918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI019</SimpleData>
+		<SimpleData name="tPCB">750.03</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.070004,42.971948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI009</SimpleData>
+		<SimpleData name="tPCB">377.63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.015855,44.117514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI050</SimpleData>
+		<SimpleData name="tPCB">192.38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.802533,42.161026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI030</SimpleData>
+		<SimpleData name="tPCB">763.895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.792436,44.40782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI042</SimpleData>
+		<SimpleData name="tPCB">224.095714285714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.656809,46.05117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI041</SimpleData>
+		<SimpleData name="tPCB">8617.15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.515,45.374444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI008</SimpleData>
+		<SimpleData name="tPCB">187.44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.481948,45.633337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI060</SimpleData>
+		<SimpleData name="tPCB">118.435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.460281,46.473615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI067</SimpleData>
+		<SimpleData name="tPCB">193.45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.353059,42.138892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI044</SimpleData>
+		<SimpleData name="tPCB">149.49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.14361,42.15583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI054</SimpleData>
+		<SimpleData name="tPCB">286.38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10556,43.254726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI064</SimpleData>
+		<SimpleData name="tPCB">21.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.092855,44.9740865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI040</SimpleData>
+		<SimpleData name="tPCB">365.38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.0828,44.6583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI061</SimpleData>
+		<SimpleData name="tPCB">465.176666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.014448,46.131392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI066</SimpleData>
+		<SimpleData name="tPCB">365.666666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.011116,43.392781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI007</SimpleData>
+		<SimpleData name="tPCB">338.71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.954726,43.365003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI016</SimpleData>
+		<SimpleData name="tPCB">899.325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.952504,43.308893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI047</SimpleData>
+		<SimpleData name="tPCB">3675.64733333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.842781,43.617505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI021</SimpleData>
+		<SimpleData name="tPCB">1008.33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.75639,42.471389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI053</SimpleData>
+		<SimpleData name="tPCB">244.87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.579031,42.7717526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI022</SimpleData>
+		<SimpleData name="tPCB">1751.32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.48178,42.42571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI015</SimpleData>
+		<SimpleData name="tPCB">100.31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.476,43.3943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI065</SimpleData>
+		<SimpleData name="tPCB">99.4333333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.471948,45.066949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI001</SimpleData>
+		<SimpleData name="tPCB">129.376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.43417,44.436115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI045</SimpleData>
+		<SimpleData name="tPCB">1765.52333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.354448,41.900559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI049</SimpleData>
+		<SimpleData name="tPCB">116.78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.25982,43.01549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI020</SimpleData>
+		<SimpleData name="tPCB">948.506666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.239449,42.05917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI011</SimpleData>
+		<SimpleData name="tPCB">1003.57333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.152504,42.05417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI046</SimpleData>
+		<SimpleData name="tPCB">5575.83333333333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.128893,42.28056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI033</SimpleData>
+		<SimpleData name="tPCB">242.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-83.0784,42.8836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI012</SimpleData>
+		<SimpleData name="tPCB">196.916666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.927226,42.352448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI010</SimpleData>
+		<SimpleData name="tPCB">2482.03</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.882781,42.584171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI055</SimpleData>
+		<SimpleData name="tPCB">125.436666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.513338,42.649448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI057</SimpleData>
+		<SimpleData name="tPCB">56859.1366666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.424448,42.996948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#DEQ_MI_">
+		<SimpleData name="SiteID">WCPCB-DMI056</SimpleData>
+		<SimpleData name="tPCB">346.486666666667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.42029,42.973564</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
