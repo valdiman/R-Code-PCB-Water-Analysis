@@ -56,6 +56,9 @@ new_col_names <- c(
 # Apply the new column names
 colnames(d) <- new_col_names
 
+# See few rows and columns
+head(d)
+
 # Export modified dataset
 write.csv(d, file = "Data/USAWaterPCB.csv",
           row.names = FALSE)
