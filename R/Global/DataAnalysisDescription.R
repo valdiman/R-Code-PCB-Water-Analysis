@@ -35,8 +35,9 @@ install.packages("cowplot")
 }
 
 # Read data ---------------------------------------------------------------
+# Data downloaded and formatted from Pangaea
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # General information -----------------------------------------------------
 # Number of locations and number of site per location
@@ -342,7 +343,7 @@ tpcb_points_ggplot_1 <- ggplot(selected_data_1, aes(x = "", y = tPCB,
 tpcb_points_ggplot_1  # Display the plot
 
 # Save plot in folder
-ggsave("Output/Plots/Global/tPCBBoxPlotV02.jpg", plot = tpcb_points_ggplot_1,
+ggsave("Output/Plots/Global/tPCBBoxPlot.jpg", plot = tpcb_points_ggplot_1,
        width = 10, height = 4.38, dpi = 500)
 
 # Calculate % samples above both EPA thresholds
@@ -411,7 +412,7 @@ tpcb_points_ggplot_2 <- tpcb_points_ggplot_2 +
 tpcb_points_ggplot_2  # Display the plot
 
 # Save plot in folder
-ggsave("Output/Plots/Global/tPCBSiteV03.jpg", plot = tpcb_points_ggplot_2,
+ggsave("Output/Plots/Global/tPCBSite.jpg", plot = tpcb_points_ggplot_2,
        width = 10, height = 6, dpi = 500)
 
 # (3) Box plot for individual PCBs
