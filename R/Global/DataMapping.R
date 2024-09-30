@@ -40,7 +40,7 @@ install.packages("tidyr")
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Extract sample site locations -------------------------------------------
 # Average tPCB per sample site
