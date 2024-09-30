@@ -34,7 +34,7 @@ install.packages("sf")
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Total Concentration Analysis --------------------------------------------
 # Data preparation
@@ -336,3 +336,4 @@ summary(lme.pcb106.118)
 
 # Shapiro test
 shapiro.test(resid(lme.pcb106.118)) # p-value <<< 0.5
+
