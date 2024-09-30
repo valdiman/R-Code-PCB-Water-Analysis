@@ -43,7 +43,7 @@ install.packages('caret')
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select anrsatonic River data ---------------------------------------------------
 anr <- wdc[str_detect(wdc$LocationName, 'Anacostia River'),]

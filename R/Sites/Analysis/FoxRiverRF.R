@@ -42,7 +42,7 @@ install.packages('viridis')
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Fox River data ---------------------------------------------------
 fox <- wdc[str_detect(wdc$LocationName, 'Fox River'),]
@@ -117,7 +117,7 @@ fox.tpcb <- subset(fox.tpcb, SiteID != c("WCPCB-FOX001"))
   # Add USGS data to fox.tpcb.2, matching dates, conversion to m3/s
   fox.tpcb$flow <- 0.03*flow$X_.Primary.Stream.Flow._00060_00003[match(fox.tpcb$date,
                                                                        flow$Date)]
-  fox.tpcb$temp <- 273.15 + temp$X_00010_00003[match(fox.tpcb$date,
+  fox.tpcb$temp <- 273.15 + temp$X_..2.._00010_00003[match(fox.tpcb$date,
                                                      temp$Date)]
   # Remove samples with temp = NA
   fox.tpcb <- na.omit(fox.tpcb)
@@ -281,7 +281,7 @@ ggsave("Output/Plots/Sites/ObsPred/FoxRiver/FoxRiverRFtPCB.png",
   # Add USGS data to fox.pcb.1, matching dates, conversion to m3/s
   fox.pcb.1$flow <- 0.03*flow$X_.Primary.Stream.Flow._00060_00003[match(fox.pcb.1$SampleDate,
                                                                         flow$Date)]
-  fox.pcb.1$temp <- 273.15 + temp$X_00010_00003[match(fox.pcb.1$SampleDate,
+  fox.pcb.1$temp <- 273.15 + temp$X_..2.._00010_00003[match(fox.pcb.1$SampleDate,
                                                       temp$Date)]
   # Remove samples with temperature = NA
   fox.pcb.2 <- fox.pcb.1[!is.na(fox.pcb.1$temp), ]

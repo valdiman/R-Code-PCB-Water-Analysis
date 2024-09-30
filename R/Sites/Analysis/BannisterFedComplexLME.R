@@ -38,7 +38,7 @@ install.packages("scales")
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Bannister Federal Complex data ---------------------------------------------------
 bfc <- wdc[str_detect(wdc$LocationName, 'Bannister Fed Complex'),]
@@ -314,3 +314,4 @@ lme.pcb <- lme.pcb[lme.pcb$Normality > 0.05, ]
 # Select only congeners with significant time coefficients
 lme.pcb.t <- lme.pcb[lme.pcb$time.pv < 0.05, ]
 # No congeners!
+

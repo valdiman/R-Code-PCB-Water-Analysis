@@ -35,7 +35,7 @@ install.packages("scales")
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select LMMB and Great Lakes data ---------------------------------------------------
 grl <- wdc[str_detect(wdc$LocationName, 'Lake Michigan Mass Balance|Great Lakes'), ]

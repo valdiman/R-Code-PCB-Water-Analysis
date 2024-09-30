@@ -44,7 +44,7 @@ install.packages('viridis')
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select LMMB data ---------------------------------------------------
 grl <- wdc[str_detect(wdc$LocationName, 'Lake Michigan Mass Balance'), ]

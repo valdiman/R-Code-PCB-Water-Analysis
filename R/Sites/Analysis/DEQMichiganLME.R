@@ -38,7 +38,7 @@ install.packages("scales")
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select DEQ Michigan data ---------------------------------------------------
 dmi <- wdc[str_detect(wdc$LocationName, fixed("DEQ (Michigan)")),]
