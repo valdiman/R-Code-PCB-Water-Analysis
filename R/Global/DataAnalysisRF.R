@@ -43,7 +43,7 @@ install.packages('viridis')
 
 # Read data ---------------------------------------------------------------
 # Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Total Concentration Analysis --------------------------------------------
 {
@@ -342,7 +342,6 @@ for (congener_name in colnames(wdc.pcb.1)) {
 # Export results
 write.csv(results_rf_PCBi, file = "Output/Data/Global/csv/RFPCB.csv",
           row.names = FALSE)
-
 
 # Plot
 plotRFPCBi <- ggplot(results_rf_PCBi, aes(x = 10^(Test_Data),
