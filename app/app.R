@@ -1,10 +1,11 @@
 # Load the data (adjust the path as necessary)
 setwd("app")
-wdc <- read.csv("WaterDataCongenerAroclor09072023.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("../Data/USAWaterPCB.csv")
 
 # Source the new server and UI files
-source("uiV02.R")
-source("serverV02.R")
+source("ui.R")
+source("server.R")
 
 # Run the application
 shinyApp(ui = ui, server = server)

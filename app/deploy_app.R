@@ -12,8 +12,7 @@ library(ggplot2)
 library(data.table)
 library(rsconnect)
 
-# Need to indicate where wdc is
-setwd("app")
+setwd("C:/Users/martie.IOWA/OneDrive - University of Iowa/Work/ISRP/Project4/Aim3/PCBWaterProject/app")  # Adjust this to your actual app path
 
 # Set account information for ShinyApps.io
 rsconnect::setAccountInfo(name='valdiman', token='0F7C710D1AF5503E411EF82C60E7F695',
@@ -21,3 +20,4 @@ rsconnect::setAccountInfo(name='valdiman', token='0F7C710D1AF5503E411EF82C60E7F6
 
 # Deploy the app to ShinyApps.io
 rsconnect::deployApp()
+

@@ -1,22 +1,25 @@
+library(shiny)
+library(leaflet)
+library(ggplot2)
+library(data.table)
+
+# Load the dataset from the RDS file
+#wdc <- readRDS("WaterDataCongenerAroclor09072023.rds")
+
 # Define the Shiny server
+# Define the server
 server <- function(input, output, session) {
-  
-  # Data.frame
-  tPCB <- data.frame(
-    SiteID = with(wdc, SiteID),
-    LocationName = with(wdc, LocationName),
-    date = with(wdc, as.Date(SampleDate, format = "%m/%d/%y")),
-    Latitude = with(wdc, as.numeric(Latitude)),
-    Longitude = with(wdc, as.numeric(Longitude)),
-    tPCB = with(wdc, as.numeric(tPCB))
-  )
+  # Convert numeric columns
+  wdc$Latitude <- as.numeric(wdc$Latitude)
+  wdc$Longitude <- as.numeric(wdc$Longitude)
+  wdc$tPCB <- as.numeric(wdc$tPCB)
   
   # Filter the data based on the selected location
   filtered_data <- reactive({
     if (input$location_select == "All") {
-      tPCB  # Return all data
+      wdc
     } else {
-      subset(tPCB, LocationName == input$location_select)  # Filter by selected location
+      subset(wdc, LocationName == input$location_select)
     }
   })
   
@@ -26,8 +29,7 @@ server <- function(input, output, session) {
       addTiles() %>%
       addMarkers(
         lng = ~Longitude,
-        lat = ~Latitude,
-        label = ~as.character(SiteID)
+        lat = ~Latitude
       )
   })
   
@@ -35,19 +37,19 @@ server <- function(input, output, session) {
   output$data <- renderTable({
     if (!is.null(input$map_marker_click)) {
       siteid <- input$map_marker_click$id
-      filtered_data <- subset(tPCB, SiteID == siteid)[, c("SiteID", "date", "tPCB")]
-      filtered_data$date <- format(as.Date(filtered_data$date, format = "%m/%d/%y"), "%m-%d-%Y")
-      colnames(filtered_data)[3] <- paste("\u03A3", "PCB ", "(pg/L)", sep = "")
+      filtered_data_subset <- subset(wdc, SiteID == siteid)[, c("SiteID", "SampleDate", "tPCB")]
       
       # Sort the data by date
-      filtered_data <- filtered_data[order(as.Date(filtered_data$date, format = "%m-%d-%Y")), ]
+      filtered_data_subset <- filtered_data_subset[order(as.Date(filtered_data_subset$SampleDate)), ]
       
       # Get the number of samples
-      num_samples <- nrow(filtered_data)
+      num_samples <- nrow(filtered_data_subset)
       
-      colnames(filtered_data)[1] <- paste("SiteID (n =", num_samples, ")")
+      # Rename the SiteID column
+      colnames(filtered_data_subset)[1] <- paste("SiteID (n =", num_samples, ")")
       
-      return(filtered_data)
+      # Ensure that the renaming is reflected correctly in the output
+      return(filtered_data_subset)
     } else {
       return(data.frame())
     }
@@ -59,14 +61,15 @@ server <- function(input, output, session) {
       siteid <- input$map_marker_click$id
       site_data <- subset(filtered_data(), SiteID == siteid)
       
+      # Remove NAs
+      site_data <- site_data[!is.na(site_data$SampleDate) & !is.na(site_data$tPCB), ]  # Filter out NAs
+      
       if (nrow(site_data) == 0) {
-        # No data available for the selected SiteID
         return(NULL)
       }
       
-      # Aggregate data by week and calculate the average of PCB values
-      site_data$week <- cut(site_data$date, breaks = "week")
-      data_agg <- aggregate(tPCB ~ week, data = site_data, mean)
+      site_data$week <- cut(as.Date(site_data$SampleDate), breaks = "week")
+      data_agg <- aggregate(tPCB ~ week, data = site_data, mean, na.rm = TRUE)
       
       num_values <- nrow(data_agg)
       width <- ifelse(num_values > 5, 0.8, 0.2 + (num_values * 0.1))
@@ -77,13 +80,12 @@ server <- function(input, output, session) {
         theme_bw() +
         theme(
           axis.text.x = element_text(angle = 90, hjust = 1),
-          axis.text.y = element_text(size = 12),  # Increase the font size of y-axis numbers
-          axis.title.y = element_text(size = 14),  # Increase the font size of y-axis title
+          axis.text.y = element_text(size = 12),
+          axis.title.y = element_text(size = 14),
           axis.text = element_text(size = 8)
         )
       
-      # Check if y-values are too large for linear scale
-      max_value <- max(data_agg$tPCB)
+      max_value <- max(data_agg$tPCB, na.rm = TRUE)
       if (max_value >= 50000) {
         p <- p + scale_y_log10()
       }
@@ -100,7 +102,7 @@ server <- function(input, output, session) {
       cat("If the maximum tPCB is too large (>50,000 pg/L), the y-axis changes to log10 scale.\n")
       cat("Source:")
     }
-  })  
+  })
   
   observe({
     leafletProxy("map", data = filtered_data()) %>%

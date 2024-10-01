@@ -1,8 +1,8 @@
-# ui.R
+# uiV02.R
 ui <- fluidPage(
   titlePanel("PCB Water Concentration Data Visualization"),
   selectInput("location_select", "Select Location:", 
-              choices = c("All", unique(wdc$LocationName))),  # Include "All" option
+              choices = c("All", unique(wdc$LocationName))),
   leafletOutput("map"),
   splitLayout(
     tableOutput("data"),
