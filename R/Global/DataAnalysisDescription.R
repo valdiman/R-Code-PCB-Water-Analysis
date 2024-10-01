@@ -35,8 +35,7 @@ install.packages("cowplot")
 }
 
 # Read data ---------------------------------------------------------------
-# Data downloaded and formatted from Pangaea
-# Data in pg/L
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
 wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # General information -----------------------------------------------------
