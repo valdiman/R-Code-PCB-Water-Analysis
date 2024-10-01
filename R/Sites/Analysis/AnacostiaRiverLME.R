@@ -36,7 +36,7 @@ install.packages("scales")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
+# Data downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R in pg/L
 wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Anacostia River data ---------------------------------------------------
