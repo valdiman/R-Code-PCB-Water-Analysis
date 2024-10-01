@@ -33,7 +33,7 @@ install.packages("sf")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
 wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Total Concentration Analysis --------------------------------------------
