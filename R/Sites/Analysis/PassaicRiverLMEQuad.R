@@ -34,8 +34,8 @@ install.packages("scales")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Passaic River data ---------------------------------------------------
 pas <- wdc[str_detect(wdc$LocationName, 'Passaic River'),]

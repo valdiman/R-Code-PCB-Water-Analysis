@@ -34,8 +34,8 @@ install.packages("scales")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Hudson River data ---------------------------------------------------
 hud <- wdc[str_detect(wdc$LocationName, 'Hudson River'),]
@@ -322,3 +322,4 @@ lme.pcb <- lme.pcb[lme.pcb$Normality > 0.05, ]
 # Select only congeners with significant time coefficients
 lme.pcb.t <- lme.pcb[lme.pcb$time.pv < 0.05, ]
 # No significance found
+

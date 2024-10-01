@@ -33,8 +33,8 @@ install.packages("scales")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Passaic River data ---------------------------------------------------
 pas <- wdc[str_detect(wdc$LocationName, 'Passaic River'),]
@@ -135,7 +135,7 @@ summary(lme.pas.tpcb)
   dev.off()
 }
 # Shapiro test
-shapiro.test(resid(lme.pas.tpcb)) # Lme doesn't work.
+shapiro.test(resid(lme.pas.tpcb)) # Lme doesn't work, p-value < 0.05
 
 # LME for individual PCBs -------------------------------------------------
 # Prepare data.frame

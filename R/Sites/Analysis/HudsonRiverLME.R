@@ -34,8 +34,8 @@ install.packages("scales")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Hudson River data ---------------------------------------------------
 hud <- wdc[str_detect(wdc$LocationName, 'Hudson River'),]
@@ -132,7 +132,7 @@ lme.hud.tpcb <- lmer(log10(tpcb) ~ 1 + time + flow + wtemp + season + (1|site),
 summary(lme.hud.tpcb)
 
 # Normality test
-shapiro.test(resid(lme.hud.tpcb))$p.value # It doesn't work.
+shapiro.test(resid(lme.hud.tpcb))$p.value # It doesn't work, p-value < 0.05
 
 # LME for individual PCBs -------------------------------------------------
 # Prepare data.frame

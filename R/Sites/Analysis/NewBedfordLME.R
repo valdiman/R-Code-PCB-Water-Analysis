@@ -46,8 +46,8 @@ install.packages("scales")
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
-wdc <- read.csv("Data/WaterDataPangaea20240606.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select nbh River data ---------------------------------------------------
 nbh <- wdc[str_detect(wdc$LocationName, 'New Bedford'),]
@@ -198,8 +198,6 @@ lme.tpcb.t <- lme.tpcb[, c("LocationName", "t05", "t05.error",
 write.csv(lme.tpcb.t,
           file = "Output/Data/Sites/csv/NewBedfordHarbor/NBHLmetPCB.csv",
           row.names = FALSE)
-
-
 
 # LME for individual PCBs -------------------------------------------------
 # Prepare data.frame

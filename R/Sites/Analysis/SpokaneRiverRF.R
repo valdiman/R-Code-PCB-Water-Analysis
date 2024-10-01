@@ -43,8 +43,8 @@ install.packages('viridis')
 }
 
 # Read data ---------------------------------------------------------------
-# Data in pg/L
-wdc <- read.csv("Data/WaterDataCongenerAroclor09072023.csv")
+# Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
+wdc <- read.csv("Data/USAWaterPCB.csv")
 
 # Select Spokane River data ---------------------------------------------------
 spo <- wdc[str_detect(wdc$LocationName, 'Spokane River'),]
@@ -83,10 +83,9 @@ spo <- wdc[str_detect(wdc$LocationName, 'Spokane River'),]
 # Data preparation --------------------------------------------------------
 {
   # Change date format
-  spo$SampleDate <- as.Date(spo$SampleDate, format = "%m/%d/%y")
+  spo$SampleDate <- as.Date(spo$SampleDate, format = "%Y-%m-%d")
   # Calculate sampling time
-  time.day <- as.numeric(difftime(as.Date(spo$SampleDate),
-                                  min(as.Date(spo$SampleDate)), units = "days"))
+  time.day <- data.frame(as.Date(spo$SampleDate) - min(as.Date(spo$SampleDate)))
   # Include season
   yq.s <- as.yearqtr(as.yearmon(spo$SampleDate, "%m/%d/%Y") + 1/12)
   season.s <- factor(format(yq.s, "%q"), levels = 1:4,
@@ -257,7 +256,7 @@ ggsave("Output/Plots/Sites/ObsPred/SpokaneRiver/SpokaneRiverRFtPCB.png",
 # Random Forest Model individual PCBs -------------------------------------
 {
   # Remove metadata
-  spo.pcb <- subset(spo, select = -c(SampleID:AroclorCongener))
+  spo.pcb <- subset(spo, select = -c(Source:AroclorCongener))
   # Remove Aroclor data
   spo.pcb <- subset(spo.pcb, select = -c(A1016:DistanceToEasternLocation))
   # Log10 individual PCBs 
@@ -269,10 +268,9 @@ ggsave("Output/Plots/Sites/ObsPred/SpokaneRiver/SpokaneRiverRFtPCB.png",
   # Remove individual PCB that have 30% or less NA values
   spo.pcb.1 <- spo.pcb[, colSums(is.na(spo.pcb))/nrow(spo.pcb) <= 0.7]
   # Change date format
-  SampleDate <- as.Date(spo$SampleDate, format = "%m/%d/%y")
+  SampleDate <- as.Date(spo$SampleDate, format = "%Y-%m-%d")
   # Calculate sampling time
-  time.day <- as.numeric(difftime(as.Date(SampleDate),
-                                  min(as.Date(SampleDate)), units = "days"))
+  time.day <- data.frame(as.Date(spo$SampleDate) - min(as.Date(spo$SampleDate)))
   # Include season
   yq.s <- as.yearqtr(as.yearmon(spo$SampleDate, "%m/%d/%Y") + 1/12)
   season.s <- factor(format(yq.s, "%q"), levels = 1:4,
@@ -474,74 +472,4 @@ print(plotRFPCBi)
 # Save plot in folder
 ggsave("Output/Plots/Sites/ObsPred/SpokaneRiver/SpokaneRiverRFPCB.png",
        plot = plotRFPCBi, width = 6, height = 5, dpi = 500)
-
-ggplot(results_rf_PCBi, aes(x = 10^(Test_Data), y = 10^(Predicted_Data),
-                            color = Correlation)) +
-  geom_point(shape = 21, size = 1, fill = "white") +
-  scale_color_viridis_c(option = "C", direction = -1, 
-                        breaks = seq(min(results_rf_PCBi$Correlation, na.rm = TRUE), 
-                                     max(results_rf_PCBi$Correlation, na.rm = TRUE), by = 0.2),
-                        labels = scales::number_format(accuracy = 0.1),
-                        limits = c(min(results_rf_PCBi$Correlation, na.rm = TRUE), 
-                                   max(results_rf_PCBi$Correlation, na.rm = TRUE))) +
-  scale_y_log10(limits = c(0.01, 10^3),
-                breaks = trans_breaks("log10", function(x) 10^x),
-                labels = trans_format("log10", math_format(10^.x))) +
-  scale_x_log10(limits = c(0.01, 10^3),
-                breaks = trans_breaks("log10", function(x) 10^x),
-                labels = trans_format("log10", math_format(10^.x))) +
-  xlab(expression(bold("Observed concentration PCBi (pg/L)"))) +
-  ylab(expression(bold("Predicted concentration PCBi (pg/L)"))) +
-  geom_abline(intercept = 0, slope = 1, col = "black", linewidth = 0.7) + # 1:1 line
-  geom_abline(intercept = log10(2), slope = 1, col = "blue", linewidth = 0.7) + # 1:2 line (factor of 2)
-  geom_abline(intercept = log10(0.5), slope = 1, col = "blue", linewidth = 0.7) +   # 2:1 line (factor of 2)
-  theme_bw() +
-  theme(aspect.ratio = 15/15) +
-  annotation_logticks(sides = "bl") +
-  guides(color = guide_colorbar(title = "Correlation", barwidth = 1, barheight = 8, 
-                                title.position = "top", title.hjust = 0.5, 
-                                labels = scales::number_format(accuracy = 0.01)))
-
-# Plot 3 option
-# Replace "." with "+" in Congener names
-results_rf_PCBi$Congener <- gsub("\\.", "+", results_rf_PCBi$Congener)
-
-# Get the unique congeners in the original order
-unique_congeners <- unique(results_rf_PCBi$Congener)
-
-# Create a factor with levels in the original order
-results_rf_PCBi$Congener <- factor(results_rf_PCBi$Congener, levels = unique_congeners)
-
-# Create the plot
-ggplot(results_rf_PCBi, aes(x = Congener, y = Correlation)) +
-  geom_point(shape = 21, color = "black") +  # Point plot
-  theme_minimal() +  # Minimal theme
-  theme_bw() +
-  xlab("") +  # X-axis label
-  ylab("Pearson correlation") +   # Y-axis label
-  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 7))  # Rotate x-axis labels for better readability
-
-# Plot 4 option
-ggplot(results_rf_PCBi, aes(x = Congener, y = (10^(Predicted_Data)/10^(Test_Data)), color = Correlation)) +
-  geom_point(shape = 21, size = 1, fill = "white") +
-  scale_color_viridis_c(option = "C", direction = -1, 
-                        breaks = seq(min(results_rf_PCBi$Correlation, na.rm = TRUE), 
-                                     max(results_rf_PCBi$Correlation, na.rm = TRUE), by = 0.2),
-                        labels = scales::number_format(accuracy = 0.1),
-                        limits = c(min(results_rf_PCBi$Correlation, na.rm = TRUE), 
-                                   max(results_rf_PCBi$Correlation, na.rm = TRUE))) +
-  xlab(expression(bold(""))) +
-  ylab(expression(bold("Predict-Obs [log10]"))) +
-  geom_abline(intercept = 0, slope = 0, col = "black", linewidth = 0.7) + # 1:1 line
-  geom_abline(intercept = log10(2), slope = 0, col = "blue", linewidth = 0.7) + # 1:2 line (factor of 2)
-  geom_abline(intercept = -log10(2), slope = 0, col = "blue", linewidth = 0.7) +   # 2:1 line (factor of 2)
-  theme_bw() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 7)) +
-  scale_y_log10(breaks = trans_breaks("log10", function(x) 10^x),
-                labels = trans_format("log10", math_format(10^.x))) +
-  annotation_logticks(sides = "l") +
-  guides(color = guide_colorbar(title = "Correlation", barwidth = 1, barheight = 8, 
-                                title.position = "top", title.hjust = 0.5, 
-                                labels = scales::number_format(accuracy = 0.01)))
-
 
