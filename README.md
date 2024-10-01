@@ -57,4 +57,20 @@ This section of the ReadMe file provides short instructions on how to download a
 3. Click the button beneath "Download RStudio Desktop".  This will download the correct installation file based on the operating system detected.
 4. Run the installation file and follow on-screen instructions. 
 
+--------
+DATA
+--------
+
+PCB data were compiled from various sources and processed both manually and using R. Examples of how the data were extracted and wrangled can be found in the 'R/ExtractingData/' directory.
+
+The final dataset is available at:
+Martinez, Andres (2024): Dataset of surface water concentrations of Polychlorinated Biphenyls in the U.S. from 1979–2020 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.972705
+
+The dataset can also be downloaded using the script found at 'R/Pangaea/PangaeaDownloadDataset.R'.
+
+Water temperatures and flows were mostly obtained from USGS station, uisng the package in R dataRetrieval and library dataRetrieval.
+
+
+
+
 
