@@ -51,9 +51,9 @@ This section of the ReadMe file provides short instructions on how to download a
 --------
 R FILES AND STRUCTURE
 --------
-It is recommended to create a Project in R (e.g., PCBWaterProject.Rproj). Download the project file (.Rproj) and the R subfolder R where the codes are located, and the Subfolder.R code. Run first the Subfolder.R code, which will generate all the subfolders. 
+It is recommended to create a project in R (e.g., PCBWaterProject.Rproj). Download the project file (.Rproj) and the R subfolder R where the codes are located, and the Subfolder.R code. Run first the Subfolder.R code, which will generate all the subfolders. 
 The structure of this project includes an R subfolder where all the R codes are located. There is a Data subfolder where the data are storage, and then an Output subfolder, where the results are located.
-The R subfolder is also subdivided into EXtractingData, Global, Pangaea and Sites subfolders. All the R codes to analyze the data, run the predicted models, create the plots and maps are in the Global and Sites/Analysis subfolders.
+The R subfolder is also subdivided into EXtractingData, Global, Pangaea and Sites subfolders. All the R codes to analyze the data, run the predicted models, create the plots and maps are in the Global and Sites/Analysis subfolders. The R code Subfolder.R also have different subfolders not needed, but it is imporant to creat a Data subfolder, where the download data from Pangaea will be storage. 
 
 --------
 DATA
@@ -66,7 +66,7 @@ Martinez, Andres (2024): Dataset of surface water concentrations of Polychlorina
 
 The dataset can also be downloaded using the script found at 'R/Pangaea/PangaeaDownloadDataset.R'.
 
-Water temperatures and flows were mostly obtained from USGS station, uisng the package in R dataRetrieval and library dataRetrieval.
+Water temperatures and flows were mostly obtained from USGS station, using the package in R dataRetrieval and library dataRetrieval.
 
 
 
