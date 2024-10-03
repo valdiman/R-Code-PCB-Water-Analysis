@@ -83,7 +83,7 @@ CombinePredObstPCBV2 <- ggplot(rf_tPCB, aes(x = Observation, y = Predicted, fill
 CombinePredObstPCBV2
 
 # Save plot
-ggsave("Output/Plots/Sites/ObsPred/Summary/CombineRFObsPredtPCBV02.png",
+ggsave("Output/Plots/Sites/ObsPred/Summary/CombineRFObsPredtPCB.png",
        plot = CombinePredObstPCBV2, width = 10, height = 10, dpi = 1300)
 
 # Read data RFPCB.csv ----------------------------------------------------
@@ -133,5 +133,5 @@ CombinePredObsPCBV1 <- ggplot(rf_PCB, aes(x = 10^(Test_Data), y = 10^(Predicted_
 CombinePredObsPCBV1
 
 # Save plot
-ggsave("Output/Plots/Sites/ObsPred/Summary/CombineRFObsPredPCBV01.png",
+ggsave("Output/Plots/Sites/ObsPred/Summary/CombineRFObsPredPCB.png",
        plot = CombinePredObsPCBV1, width = 10, height = 10, dpi = 1300)
