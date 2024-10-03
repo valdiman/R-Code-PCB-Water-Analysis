@@ -51,8 +51,8 @@ This section of the ReadMe file provides short instructions on how to download a
 --------
 R FILES AND STRUCTURE
 --------
-It is recommended to create a Project in R (e.g., PCBWaterProject.Rproj). Download the project file and the R folder where the codes are, and the Subfolder.R code. Run first the Subfolder code, which will generate all the subfolders. 
-The structure of this project is having a R subfolder where all the R codes are located. Then, there is a Data subfolder where the data are storage, and then and Output subfolder, there the results are located.
+It is recommended to create a Project in R (e.g., PCBWaterProject.Rproj). Download the project file (.Rproj) and the R subfolder R where the codes, and the Subfolder.R code. Run first the Subfolder.R code, which will generate all the subfolders. 
+The structure of this project includes an R subfolder where all the R codes are located. There is a Data subfolder where the data are storage, and then and Output subfolder, there the results are located.
 The R subfolder is also subdivided into EXtractingData, Global, Pangaea and Sites subfolders. All the R codes to analyze the data, run the predicted models, create the plots and maps are in the Global and Sites/Analysis subfolders.
 
 --------
