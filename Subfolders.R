@@ -1,6 +1,5 @@
 # Create subfolder within the current working directory
 
-dir.create("app")
 dir.create("Data")
 dir.create("Data/ChesapeakeBay")
 dir.create("Data/ChesapeakeBay/WaterTemp")
