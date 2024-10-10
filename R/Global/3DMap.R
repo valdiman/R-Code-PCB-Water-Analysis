@@ -11,12 +11,14 @@ install.packages("sf")
 install.packages("maps")
 
 # Load libraries
-library(ggplot2)
-library(sf)
-library(rayshader)
-library(maps)
-library(dplyr)
-library(tidyverse) 
+{
+  library(ggplot2)
+  library(rayshader)
+  library(viridis)
+  library(dplyr)
+  library(maps)
+  library(rgl)
+}
 
 # Read data ---------------------------------------------------------------
 # Data (pg/L) downloaded from Pangaea using code: R/Pangaea/PangaeaDownloadDataset.R
@@ -36,40 +38,45 @@ long_max <- -82.4
 # Filter the tpcb.ave data for the Great Lakes region
 great_lakes_data <- tpcb.ave %>%
   filter(Latitude >= lat_min, Latitude <= lat_max, 
-         Longitude >= long_min, Longitude <= long_max)
+         Longitude >= long_min, Longitude <= long_max) %>%
+  mutate(tPCB_log10 = log10(tPCB))  # Apply log10 transformation to tPCB
 
-# Check for duplicates and summarize
-duplicates <- great_lakes_data %>%
-  group_by(Latitude, Longitude) %>%
-  summarise(tPCB = mean(tPCB, na.rm = TRUE), .groups = 'drop')
+# Get map data for the USA and lakes
+usa_map <- map_data("usa")
+lakes_map <- map_data("lakes")
 
-# Create a grid for rendering
-tPCB_matrix <- duplicates %>%
-  select(Longitude, Latitude, tPCB) %>%
-  pivot_wider(names_from = Longitude, values_from = tPCB) %>%
-  as.data.frame()
+# Create the ggplot object with transparency added to the data points
+gg_map <- ggplot() +
+  # Fill USA land with a light gray color
+  geom_polygon(data = usa_map, aes(x = long, y = lat, group = group), 
+               fill = "lightgray", color = NA) +  
+  # Fill lakes with a transparent blue color
+  geom_polygon(data = lakes_map, aes(x = long, y = lat, group = group), 
+               fill = "lightblue", color = NA, alpha = 0.5) +  # Set lakes to be a bit transparent
+  # Plot log10-transformed data points, with transparency added using alpha
+  geom_point(data = great_lakes_data, aes(x = Longitude, y = Latitude, color = tPCB_log10), 
+             size = 2, alpha = 0.7) +  # Set alpha for transparency
+  scale_color_viridis_c(option = "D", name = "log10(tPCB)") +  # Use the viridis color scale
+  coord_map(xlim = c(long_min, long_max), ylim = c(lat_min, lat_max)) +  # Limit plot to specific latitude/longitude bounds
+  labs(title = "log10(tPCB) Data in the Great Lakes Region",
+       x = "Longitude", y = "Latitude") +
+  theme_minimal() +  # Minimal theme with clean background
+  theme(panel.background = element_rect(fill = "white"),  # Set the panel background to white
+        plot.background = element_rect(fill = "white"))  # Set the plot background to white
 
-# Print the filtered data dimensions to ensure it has been processed correctly
-print(dim(tPCB_matrix))
+# Plot the ggplot object
+print(gg_map)
 
-# Check for missing values in the matrix
-missing_values <- any(is.na(tPCB_matrix))
-if (missing_values) {
-  warning("There are missing values in the matrix, please check the data.")
-}
+# Convert the ggplot into a 3D plot using rayshader
+plot_gg(gg_map, width = 5, height = 4, scale = 300, multicore = TRUE, windowsize = c(1000, 800))
 
-# Create the matrix from the filtered data, ensuring it is properly filled
-reshaped_tPCB_matrix <- as.matrix(tPCB_matrix[,-1])  # Remove Latitude for the matrix creation
+# Adjust the camera settings
+render_camera(fov = 70, zoom = 0.5, theta = 130, phi = 35)
 
-# Now ensure that reshaped_tPCB_matrix has the correct dimensions
-print(dim(reshaped_tPCB_matrix))
+# Render the snapshot
+Sys.sleep(0.2)
+render_snapshot(clear = TRUE)
 
-# Create the 3D plot for the Great Lakes region
-reshaped_tPCB_matrix %>%
-  sphere_shade(texture = "imhof1") %>%
-  plot_3d(reshaped_tPCB_matrix, zscale = 0.1, fov = 0, theta = 45, phi = 30, 
-          windowsize = c(800, 800), zoom = 0.75)
-
-# Render depth
-render_depth()
+# Save the 3D plot as an image file
+rgl::snapshot3d("Output/Maps/Global/great_lakes_tPCB_3D_map.png")
 
