@@ -1,4 +1,5 @@
 
+# Install packages
 install.packages("RcppArmadillo", type = "binary")
 install.packages("rayimage")
 install.packages("rayvertex")
@@ -29,8 +30,8 @@ tpcb.ave <- aggregate(tPCB ~ SiteID + Latitude + Longitude,
 # Define the latitude and longitude boundaries for the Great Lakes region
 lat_min <- 41.5
 lat_max <- 47.5
-long_min <- -88
-long_max <- -78
+long_min <- -89.1
+long_max <- -82.4
 
 # Filter the tpcb.ave data for the Great Lakes region
 great_lakes_data <- tpcb.ave %>%
