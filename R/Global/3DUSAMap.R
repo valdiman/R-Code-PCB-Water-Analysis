@@ -51,7 +51,7 @@ gg_map_usa <- ggplot() +
                fill = "lightgray", color = NA) +  
   # Add state lines using the state boundaries
   geom_path(data = states_map, aes(x = long, y = lat, group = group), 
-            color = "black", size = 0.1) +  # Draw state lines
+            color = "black", linewidth = 0.1) +  # Draw state lines
   # Fill lakes with a light blue color
   geom_polygon(data = lakes_map, aes(x = long, y = lat, group = group), 
                fill = "lightblue", color = NA, alpha = 0.5) +  # Set lakes to be a bit transparent
@@ -69,15 +69,45 @@ gg_map_usa <- ggplot() +
 print(gg_map_usa)
 
 # Convert the ggplot into a 3D plot using rayshader without the legend
-plot_gg(gg_map_usa, width = 5, height = 4, scale = 300, multicore = TRUE, windowsize = c(1000, 800))
+plot_gg(gg_map_usa, width = 5, height = 4, scale = 800,
+        multicore = TRUE, windowsize = c(4000, 3000))
 
 # Adjust the camera settings
 render_camera(fov = 70, zoom = 0.5, theta = 130, phi = 35)
 
 # Render the snapshot without the legend
 Sys.sleep(0.2)
-render_snapshot(clear = TRUE)  # No keep_user_par argument
+render_snapshot(clear = TRUE)
 
 # Save the 3D plot as an image file
 rgl::snapshot3d("Output/Maps/Global/USA_tPCB_3D_map.png")
+
+# Another option to save the map
+# Create individual layers (save as PNGs)
+gg_map_usa_land <- ggplot() +
+  geom_polygon(data = usa_map, aes(x = long, y = lat, group = group), fill = "lightgray", color = NA) +
+  theme_void() +
+  coord_map(xlim = c(long_min, long_max), ylim = c(lat_min, lat_max))
+
+gg_map_usa_states <- ggplot() +
+  geom_path(data = states_map, aes(x = long, y = lat, group = group), color = "black", size = 0.1) +
+  theme_void() +
+  coord_map(xlim = c(long_min, long_max), ylim = c(lat_min, lat_max))
+
+gg_map_usa_lakes <- ggplot() +
+  geom_polygon(data = lakes_map, aes(x = long, y = lat, group = group), fill = "lightblue", color = NA, alpha = 0.5) +
+  theme_void() +
+  coord_map(xlim = c(long_min, long_max), ylim = c(lat_min, lat_max))
+
+gg_map_usa_points <- ggplot() +
+  geom_point(data = usa_data, aes(x = Longitude, y = Latitude, color = tPCB_log10), size = 2, alpha = 0.7) +
+  scale_color_viridis_c(option = "D", name = "log10(tPCB)", direction = -1) +
+  theme_void() +
+  coord_map(xlim = c(long_min, long_max), ylim = c(lat_min, lat_max))
+
+# Save the individual layers as PNG files
+ggsave(paste0("Output/Maps/Global/usa_land.png"), plot = gg_map_usa_land, width = 10, height = 8, dpi = 300)
+ggsave(paste0("Output/Maps/Global/usa_states.png"), plot = gg_map_usa_states, width = 10, height = 8, dpi = 300)
+ggsave(paste0("Output/Maps/Global/usa_lakes.png"), plot = gg_map_usa_lakes, width = 10, height = 8, dpi = 300)
+ggsave(paste0("Output/Maps/Global/usa_points.png"), plot = gg_map_usa_points, width = 10, height = 8, dpi = 300)
 
